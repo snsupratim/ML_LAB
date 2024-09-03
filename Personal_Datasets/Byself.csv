@@ -1,0 +1,17 @@
+   Date_Id,Day_of_week,Mode_of_Transport,Root_to_Maidan,Maidan_to_Salkia,Salkia_to_College,College_to_Bandhaghat,Bandhaghat_to_Maidan,Maidan_to_Root,Auto,Toto,Departure_Time(am),Arrival_Time(am),Duration,Departure_from_college(pm),Arrival_at_Root(pm),Duration,Traffic_Conditions,Weather_Conditions,Cost
+,,,,,,,,,,,,,,,,,,,
+1,Monday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,08:50,09:35,00:45,16:30,17:40,01:10,Moderate,Sunny,62
+2,Tuesday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,08:45,09:32,00:47,17:10,18:05,00:55,Moderate,Rainy,62
+3,Wednesday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,08:55,09:35,00:40,16:45,17:50,01:05,Moderate,Rainy,62
+4,Thursday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,08:52,09:30,00:38,13:00,14:10,01:10,Moderate,Cloudy,62
+5,Friday,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6,Saturday,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7,Sunday,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8,Monday,Scooty,Scooty,Scooty,Scooty,Scooty,Scooty,Scooty,0,0,09:05,09:32,00:27,16:35,17:10,00:35,Moderate,Sunny,0
+9,Tuesday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,09:02,09:36,00:34,17:25,18:30,01:05,Moderate,Rainy,62
+10,Wednesday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,09:05,09:31,00:26,16:40,17:50,01:10,Moderate,Sunny,62
+11,Thursday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,08:50,09:32,00:42,16:20,17:10,00:50,Moderate,Sunny,62
+12,Friday,Mix,Bike,Auto,Toto,Toto,Auto,Toto,27,35,08:45,09:25,00:40,12:45,13:40,00:55,Moderate,Cloudy,62
+13,Saturday,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14,Sunday,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15,Monday,Mix,Scooty,Scooty,Scooty,Toto,Auto,Toto,12,20,08:50,09:45,00:55,16:15,15:20,,Moderate,Sunny,32
